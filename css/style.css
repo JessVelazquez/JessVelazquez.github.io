@@ -1,0 +1,29 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */.
+.hola {
+	color: black
+}
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.jess {
+	background-image: url('http://imagenes.4ever.eu/data/download/naturaleza/universo/andromeda,-galaxia-159386.jpg');
+
+}
+
+.fuenteGoogle {
+	font-family: 'Orbitron', sans-serif;
+}
+
+.galaxia {
+	background: blue;
+}
