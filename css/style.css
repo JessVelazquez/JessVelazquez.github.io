@@ -27,3 +27,7 @@
 .galaxia {
 	background: blue;
 }
+.fondoBody {
+	background-image: url('http://wallwindow.com/wp-content/uploads/2014/09/galaxy-hipster.jpg');
+	background-size: cover;
+}
